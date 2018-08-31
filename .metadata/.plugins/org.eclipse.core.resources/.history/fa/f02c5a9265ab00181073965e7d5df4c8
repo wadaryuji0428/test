@@ -1,0 +1,25 @@
+
+public class TestA {
+public static void main(String[] args){
+	PersonA taro=new PersonA();
+	PersonA jiro=new PersonA();
+	PersonA hanako=new PersonA();
+	taro.name="太郎";
+	jiro.name="次郎";
+	hanako.name="花子";
+	tomato.name="トマト";
+
+	taro.age=20;
+	jiro.age=18;
+	hanako.age=16;
+	System.out.println(taro.name);
+	System.out.println(taro.age);
+	System.out.println(jiro.name);
+	System.out.println(jiro.age);
+	System.out.println(hanako.name);
+	System.out.println(hanako.age);
+	taro.talk();
+	taro.walk();
+	taro.run();
+}
+}

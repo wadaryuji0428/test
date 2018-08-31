@@ -1,0 +1,5 @@
+package jissouennsyuukadai;
+
+public interface Mp3player {
+
+}

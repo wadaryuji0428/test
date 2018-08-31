@@ -1,0 +1,14 @@
+package konstracta;
+
+public class Test {
+public static void main(String[] args){
+	Person taro=new Person();
+	taro.name="太郎";
+	taro.age=20;
+	Person jiro=new Person("次郎",0);
+	Person saburo=new Person("三郎",67);
+	Person a new Person("伊藤");
+	System.out.println(jiro.name);
+	System.out.println(saburo.age);
+}
+}

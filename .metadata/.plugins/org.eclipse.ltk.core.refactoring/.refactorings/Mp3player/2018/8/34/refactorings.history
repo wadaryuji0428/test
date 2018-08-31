@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;&apos; to &apos;SmartPhone.stop()&apos;&#x0D;&#x0A;- 元のプロジェクト: &apos;Mp3player&apos;&#x0D;&#x0A;- 宛先要素: &apos;SmartPhone.stop()&apos;&#x0D;&#x0A;- オリジナル要素: &apos;SmartPhone.stop()&apos;" description="メソッドをコピー" destination="/src&lt;{SmartPhome.java[SmartPhone~stop" element1="/src&lt;{SmartPhome.java[SmartPhone~stop" flags="589830" id="org.eclipse.jdt.ui.copy" members="1" policy="org.eclipse.jdt.ui.copyMembers" stamp="1534920250851" version="1.0"/>
+</session>
